@@ -13,6 +13,13 @@ Tujuan project ini adalah untuk melatih keterampilan dasar dalam membuat tampila
 - Responsif dan bisa dibuka di berbagai perangkat
 - Bisa dikustomisasi (ubah nama, teks ucapan, atau background)
 
+---
+
+## 📷 Screenshot
+<img width="358" height="805" alt="BirthdayCard" src="https://github.com/user-attachments/assets/e2b521a6-7370-4712-b2db-a896fd52657d" />
+
+
+---
 
 ## 👤 Author
 
